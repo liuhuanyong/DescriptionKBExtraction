@@ -4,16 +4,15 @@ DescriptionPairsExtraction, entity and it's description pairs extract program ba
 
 # 项目介绍
 
-
-writing....
-
-
-
-# 总结
-
-writing....
+requirements:  
+Keras==2.3.1.   
+keras-contrib==2.0.8    
+numpy==1.16.0    
+tensorflow==1.15.0    
 
 
+# 执行方式   
+python model_predict.py. 
 
 
 If any question about the project or me ,see https://liuhuanyong.github.io/.   
